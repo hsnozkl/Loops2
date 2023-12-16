@@ -1,0 +1,14 @@
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Loops2\bin\Debug\net8.0\Loops2.exe
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Loops2\bin\Debug\net8.0\Loops2.deps.json
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Loops2\bin\Debug\net8.0\Loops2.runtimeconfig.json
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Loops2\bin\Debug\net8.0\Loops2.dll
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Loops2\bin\Debug\net8.0\Loops2.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Loops2\obj\Debug\net8.0\Loops2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Loops2\obj\Debug\net8.0\Loops2.AssemblyInfoInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Loops2\obj\Debug\net8.0\Loops2.AssemblyInfo.cs
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Loops2\obj\Debug\net8.0\Loops2.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Loops2\obj\Debug\net8.0\Loops2.dll
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Loops2\obj\Debug\net8.0\refint\Loops2.dll
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Loops2\obj\Debug\net8.0\Loops2.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Loops2\obj\Debug\net8.0\Loops2.genruntimeconfig.cache
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Loops2\obj\Debug\net8.0\ref\Loops2.dll
